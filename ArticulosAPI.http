@@ -4,3 +4,14 @@ GET {{ArticulosAPI_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+POST {{ArticulosAPI_HostAddress}}/api/articulos
+Content-Type: application/json
+
+{
+    "id":1,
+    "titulo": "El uno uno",
+    "resena": "1-1",
+    "contenido": "El primero en llegar",
+    "fecha": "2024-09-08",
+    "imagen": "https://www.google.com"
+}

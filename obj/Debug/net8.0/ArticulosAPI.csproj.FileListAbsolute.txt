@@ -132,3 +132,4 @@ C:\Users\sidun\SiduncuWeb_definitivo\ArticulosAPI\obj\Debug\net8.0\refint\Articu
 C:\Users\sidun\SiduncuWeb_definitivo\ArticulosAPI\obj\Debug\net8.0\ArticulosAPI.pdb
 C:\Users\sidun\SiduncuWeb_definitivo\ArticulosAPI\obj\Debug\net8.0\ArticulosAPI.genruntimeconfig.cache
 C:\Users\sidun\SiduncuWeb_definitivo\ArticulosAPI\obj\Debug\net8.0\ref\ArticulosAPI.dll
+C:\Users\sidun\SiduncuWeb_definitivo\ArticulosAPI\obj\Debug\net8.0\ArticulosAPI.sourcelink.json

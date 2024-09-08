@@ -21,6 +21,7 @@ if (app.Environment.IsDevelopment())
 {
     app.UseDeveloperExceptionPage();
 }
+app.MapGet("/", () => "Hello wordl!");
 
 app.UseHttpsRedirection();
 app.UseAuthorization();
